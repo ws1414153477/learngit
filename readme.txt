@@ -1,4 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git tracks changes of files.
-我在尝试
+﻿此项目为git学习总结
